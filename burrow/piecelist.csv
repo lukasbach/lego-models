@@ -1,0 +1,96 @@
+BLItemNo	ElementId	LdrawId	PartName	BLColorId	LDrawColorId	ColorName	ColorCategory	Qty	Weight
+2412b	241202	2412b	Tile, Modified 1 x 2 Grille with Bottom Groove / Lip	9	7	Light Gray	Solid Colors	4	0.23
+2412b	241201	2412b	Tile, Modified 1 x 2 Grille with Bottom Groove / Lip	1	15	White	Solid Colors	10	0.23
+2420	242001	2420	Plate 2 x 2 Corner	1	15	White	Solid Colors	4	0.54
+24246	6256435	24246	Tile 1 x 1 Half Circle Extended (Stadium) with Groove	11	0	Black	Solid Colors	8	0.1
+24246	6250591	24246	Tile 1 x 1 Half Circle Extended (Stadium) with Groove	1	15	White	Solid Colors	2	0.1
+2431	243128	2431	Tile 1 x 4	6	2	Green	Solid Colors	1	0.54
+2431	4543949	2431	Tile 1 x 4	80	288	Dark Green	Solid Colors	3	0.54
+2432	243202	2432	Tile, Modified 1 x 2 with Handle	9	7	Light Gray	Solid Colors	1	0.58
+2432		2432	Tile, Modified 1 x 2 with Handle	8	6	Brown	Solid Colors	2	0.58
+2436	4282737	2436	Bracket 1 x 2 - 1 x 4	1	15	White	Solid Colors	2	0.93
+26047	6157554	26047	Plate, Modified 1 x 1 Rounded with Handle	11	0	Black	Solid Colors	2	0.3
+3001	300101	3001	Brick 2 x 4	1	15	White	Solid Colors	5	2.32
+3002	300201	3002	Brick 2 x 3	1	15	White	Solid Colors	2	1.92
+3003	4211210	3003	Brick 2 x 2	88	70	Reddish Brown	Solid Colors	1	1.35
+3003	300301	3003	Brick 2 x 2	1	15	White	Solid Colors	1	1.35
+3003	4211060	3003	Brick 2 x 2	85	72	Dark Bluish Gray	Solid Colors	1	1.35
+3004	4613964	3004	Brick 1 x 2	1	15	White	Solid Colors	3	0.8
+3004	4613963	3004	Brick 1 x 2	88	70	Reddish Brown	Solid Colors	3	0.8
+3005	4160990	3005	Brick 1 x 1	8	6	Brown	Solid Colors	3	0.44
+3005	4211098	3005	Brick 1 x 1	85	72	Dark Bluish Gray	Solid Colors	2	0.44
+3005	300501	3005	Brick 1 x 1	1	15	White	Solid Colors	10	0.44
+3005	4211242	3005	Brick 1 x 1	88	70	Reddish Brown	Solid Colors	4	0.44
+3010	301001	3010	Brick 1 x 4	1	15	White	Solid Colors	6	1.64
+3020	302001	3020	Plate 2 x 4	1	15	White	Solid Colors	2	1.2
+3020	4586057	3020	Plate 2 x 4	80	288	Dark Green	Solid Colors	4	1.2
+3020	6226792	3020	Plate 2 x 4	120	308	Dark Brown	Solid Colors	1	1.2
+3020	4112232	3020	Plate 2 x 4	10	8	Dark Gray	Solid Colors	1	1.2
+3021	302102	3021	Plate 2 x 3	9	7	Light Gray	Solid Colors	1	0.93
+3021	302101	3021	Plate 2 x 3	1	15	White	Solid Colors	6	0.93
+3021	4650244	3021	Plate 2 x 3	80	288	Dark Green	Solid Colors	1	0.93
+3021	4114000	3021	Plate 2 x 3	8	6	Brown	Solid Colors	2	0.93
+3022	4613976	3022	Plate 2 x 2	1	15	White	Solid Colors	4	0.64
+3023	302326	3023	Plate 1 x 2	11	0	Black	Solid Colors	2	0.36
+3023	302301	3023	Plate 1 x 2	1	15	White	Solid Colors	7	0.36
+3023	4211150	3023	Plate 1 x 2	88	70	Reddish Brown	Solid Colors	5	0.36
+3023	302325	3023	Plate 1 x 2	8	6	Brown	Solid Colors	1	0.36
+3024	4143684	3024	Plate 1 x 1	10	8	Dark Gray	Solid Colors	12	0.2
+3024	4221744	3024	Plate 1 x 1	88	70	Reddish Brown	Solid Colors	3	0.2
+3024	6055169	3024	Plate 1 x 1	80	288	Dark Green	Solid Colors	5	0.2
+3024		3024	Plate 1 x 1	8	6	Brown	Solid Colors	1	0.2
+3024		3024	Plate 1 x 1	91	86	Medium Brown	Solid Colors	3	0.2
+3024	302401	3024	Plate 1 x 1	1	15	White	Solid Colors	6	0.2
+3031	4243812	3031	Plate 4 x 4	1	15	White	Solid Colors	3	2.22
+3035		3035	Plate 4 x 8	120	308	Dark Brown	Solid Colors	2	4.7
+3039	4211202	3039	Slope 45 2 x 2	88	70	Reddish Brown	Solid Colors	5	1.15
+3040	4211199	3040	Slope 45 2 x 1	88	70	Reddish Brown	Solid Colors	6	0.69
+3045	4652624	3045	Slope 45 2 x 2 Double Convex	88	70	Reddish Brown	Solid Colors	12	0.9
+3062b	4211090	3062b	Brick, Round 1 x 1 Open Stud	85	72	Dark Bluish Gray	Solid Colors	6	0.28
+3068b	4107762	3068b	Tile 2 x 2 with Groove	6	2	Green	Solid Colors	1	0.48
+3068b	4528778	3068b	Tile 2 x 2 with Groove	80	288	Dark Green	Solid Colors	1	0.48
+3068b	4191067	3068b	Tile 2 x 2 with Groove	8	6	Brown	Solid Colors	1	0.48
+3069b	306928	3069b	Tile 1 x 2 with Groove	6	2	Green	Solid Colors	4	0.26
+3069b	306902	3069b	Tile 1 x 2 with Groove	9	7	Light Gray	Solid Colors	6	0.26
+3069b	306925	3069b	Tile 1 x 2 with Groove	8	6	Brown	Solid Colors	4	0.26
+3069b	4211151	3069b	Tile 1 x 2 with Groove	88	70	Reddish Brown	Solid Colors	1	0.26
+3069b	306901	3069b	Tile 1 x 2 with Groove	1	15	White	Solid Colors	18	0.26
+3069b	4586058	3069b	Tile 1 x 2 with Groove	80	288	Dark Green	Solid Colors	3	0.26
+3069b	306926	3069b	Tile 1 x 2 with Groove	11	0	Black	Solid Colors	1	0.26
+3070b		3070b	Tile 1 x 1 with Groove	10	8	Dark Gray	Solid Colors	2	0.16
+3070b	307001	3070b	Tile 1 x 1 with Groove	1	15	White	Solid Colors	2	0.16
+3070b	4558593	3070b	Tile 1 x 1 with Groove	6	2	Green	Solid Colors	1	0.16
+3070b	4211288	3070b	Tile 1 x 1 with Groove	88	70	Reddish Brown	Solid Colors	2	0.16
+3070b	6055171	3070b	Tile 1 x 1 with Groove	80	288	Dark Green	Solid Colors	1	0.16
+3298	4216625	3298	Slope 33 3 x 2	88	70	Reddish Brown	Solid Colors	2	1.27
+3623	6013975	3623	Plate 1 x 3	80	288	Dark Green	Solid Colors	2	0.53
+3666	4245566	3666	Plate 1 x 6	80	288	Dark Green	Solid Colors	4	1.06
+36841		36841	Bracket 1 x 1 - 1 x 1	1	15	White	Solid Colors	6	0.28
+3710	371001	3710	Plate 1 x 4	1	15	White	Solid Colors	3	0.71
+3794a	379401	3794a	Plate, Modified 1 x 2 with 1 Stud WITHOUT Groove (Jumper)	1	15	White	Solid Colors	8	0.3
+3794a	4118864	3794a	Plate, Modified 1 x 2 with 1 Stud WITHOUT Groove (Jumper)	10	8	Dark Gray	Solid Colors	4	0.3
+3794b	4219726	3794b	Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)	88	70	Reddish Brown	Solid Colors	1	0.3
+3795	379501	3795	Plate 2 x 6	1	15	White	Solid Colors	2	1.74
+3958	6186831	3958	Plate 6 x 6	80	288	Dark Green	Solid Colors	4	4.71
+4070	407002	4070	Brick, Modified 1 x 1 with Headlight	9	7	Light Gray	Solid Colors	42	0.36
+4865	486501	4865	Panel 1 x 2 x 1	1	15	White	Solid Colors	1	0.46
+54200	4504376	54200	Slope 30 1 x 1 x 2/3	88	70	Reddish Brown	Solid Colors	4	0.21
+4073	614101	4073	Plate, Round 1 x 1 Straight Side	1	15	White	Solid Colors	4	0.12
+4073	614126	4073	Plate, Round 1 x 1 Straight Side	11	0	Black	Solid Colors	4	0.12
+4073		4073	Plate, Round 1 x 1 Straight Side	8	6	Brown	Solid Colors	1	0.12
+6231	4166142	6231	Panel 1 x 1 x 1 Corner	8	6	Brown	Solid Colors	2	0.3
+6231	623101	6231	Panel 1 x 1 x 1 Corner	1	15	White	Solid Colors	2	0.3
+63864	4650622	63864	Tile 1 x 3	80	288	Dark Green	Solid Colors	2	0.39
+63864	6023083	63864	Tile 1 x 3	6	2	Green	Solid Colors	1	0.39
+85984		85984	Slope 30 1 x 2 x 2/3	8	6	Brown	Solid Colors	2	0.34
+85984	6035291	85984	Slope 30 1 x 2 x 2/3	88	70	Reddish Brown	Solid Colors	3	0.34
+87079	6234841	87079	Tile 2 x 4	80	288	Dark Green	Solid Colors	6	0.9
+87079	4566179	87079	Tile 2 x 4	6	2	Green	Solid Colors	3	0.9
+87087	4558955	87087	Brick, Modified 1 x 1 with Stud on 1 Side	85	72	Dark Bluish Gray	Solid Colors	4	0.45
+87087	6062574	87087	Brick, Modified 1 x 1 with Stud on 1 Side	88	70	Reddish Brown	Solid Colors	1	0.45
+87087		87087	Brick, Modified 1 x 1 with Stud on 1 Side	8	6	Brown	Solid Colors	3	0.45
+87580	6126046	87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	1	15	White	Solid Colors	4	0.5
+87580		87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	9	7	Light Gray	Solid Colors	2	0.5
+									
+Total qty	Total Weight								
+356	213								

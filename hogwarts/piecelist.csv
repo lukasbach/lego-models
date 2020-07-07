@@ -1,0 +1,332 @@
+BLItemNo	ElementId	LdrawId	PartName	BLColorId	LDrawColorId	ColorName	ColorCategory	Qty	Weight
+2357	4211349	2357	Brick 2 x 2 Corner	86	71	Light Bluish Gray	Solid Colors	11	1.25
+2357	4211200	2357	Brick 2 x 2 Corner	88	70	Reddish Brown	Solid Colors	8	1.25
+2357	4124455	2357	Brick 2 x 2 Corner	2	19	Tan	Solid Colors	2	1.25
+2412b	4224243	2412b	Tile, Modified 1 x 2 Grille with Bottom Groove / Lip	88	70	Reddish Brown	Solid Colors	147	0.23
+2412b	4211350	2412b	Tile, Modified 1 x 2 Grille with Bottom Groove / Lip	86	71	Light Bluish Gray	Solid Colors	12	0.23
+2412b	4124456	2412b	Tile, Modified 1 x 2 Grille with Bottom Groove / Lip	2	19	Tan	Solid Colors	1	0.23
+2412b	4210631	2412b	Tile, Modified 1 x 2 Grille with Bottom Groove / Lip	85	72	Dark Bluish Gray	Solid Colors	2	0.23
+2420	4210635	2420	Plate 2 x 2 Corner	85	72	Dark Bluish Gray	Solid Colors	2	0.54
+2420	4550168	2420	Plate 2 x 2 Corner	69	28	Dark Tan	Solid Colors	1	0.54
+2420	4211353	2420	Plate 2 x 2 Corner	86	71	Light Bluish Gray	Solid Colors	13	0.54
+2445	4268715	2445	Plate 2 x 12	69	28	Dark Tan	Solid Colors	1	3.5
+2445	6218146	2445	Plate 2 x 12	6	2	Green	Solid Colors	4	3.5
+2445	4211067	2445	Plate 2 x 12	85	72	Dark Bluish Gray	Solid Colors	1	3.5
+2445	4211360	2445	Plate 2 x 12	86	71	Light Bluish Gray	Solid Colors	1	3.5
+2449	4636202	2449	Slope, Inverted 75 2 x 1 x 3	11	0	Black	Solid Colors	1	1.88
+2453a		2453a	Brick 1 x 1 x 5 - Blocked Open Stud	12	47	Trans-Clear	Transparent Colors	10	2.13
+2453a		2453a	Brick 1 x 1 x 5 - Blocked Open Stud	2	19	Tan	Solid Colors	12	2.13
+2456	4181134	2456	Brick 2 x 6	2	19	Tan	Solid Colors	1	3.74
+2456	4211795	2456	Brick 2 x 6	86	71	Light Bluish Gray	Solid Colors	12	3.74
+2458	4160228	2458	Brick, Modified 1 x 2 with Pin	1	15	White	Solid Colors	1	1.09
+2462	4598467	2462	Brick, Modified Facet 3 x 3	2	19	Tan	Solid Colors	24	1.46
+2540	4210660	2540	Plate, Modified 1 x 2 with Handle on Side - Free Ends	85	72	Dark Bluish Gray	Solid Colors	4	0.63
+2555	4542411	2555	Tile, Modified 1 x 1 with Clip	2	19	Tan	Solid Colors	40	0.22
+2639		2639	Plate 4 x 4 Corner	86	71	Light Bluish Gray	Solid Colors	1	1.75
+2730	4160545	2730	Technic, Brick 1 x 10 with Holes	2	19	Tan	Solid Colors	1	3.67
+2877	4655900	2877	Brick, Modified 1 x 2 with Grille (Grill)	2	19	Tan	Solid Colors	5	0.68
+2921	6170566	2921	Brick, Modified 1 x 1 with Handle	11	0	Black	Solid Colors	4	0.61
+3001	300121	3001	Brick 2 x 4	5	4	Red	Solid Colors	37	2.32
+3001	4114319	3001	Brick 2 x 4	2	19	Tan	Solid Colors	40	2.32
+3001	4211385	3001	Brick 2 x 4	86	71	Light Bluish Gray	Solid Colors	97	2.32
+3001	4106356	3001	Brick 2 x 4	6	2	Green	Solid Colors	1	2.32
+3001	4211201	3001	Brick 2 x 4	88	70	Reddish Brown	Solid Colors	219	2.32
+3001	4260493	3001	Brick 2 x 4	80	288	Dark Green	Solid Colors	18	2.32
+3002	300221	3002	Brick 2 x 3	5	4	Red	Solid Colors	2	1.92
+3002	4159739	3002	Brick 2 x 3	2	19	Tan	Solid Colors	14	1.92
+3002	4211386	3002	Brick 2 x 3	86	71	Light Bluish Gray	Solid Colors	40	1.92
+3002	4109674	3002	Brick 2 x 3	6	2	Green	Solid Colors	1	1.92
+3002	300226	3002	Brick 2 x 3	11	0	Black	Solid Colors	2	1.92
+3003	300321	3003	Brick 2 x 2	5	4	Red	Solid Colors	9	1.35
+3003	4255416	3003	Brick 2 x 2	69	28	Dark Tan	Solid Colors	2	1.35
+3003	4211387	3003	Brick 2 x 2	86	71	Light Bluish Gray	Solid Colors	53	1.35
+3003	4211060	3003	Brick 2 x 2	85	72	Dark Bluish Gray	Solid Colors	3	1.35
+3003	300326	3003	Brick 2 x 2	11	0	Black	Solid Colors	12	1.35
+3003	6239418	3003	Brick 2 x 2	12	47	Trans-Clear	Transparent Colors	3	1.35
+3003	4114306	3003	Brick 2 x 2	2	19	Tan	Solid Colors	7	1.35
+3003	4209117	3003	Brick 2 x 2	36	10	Bright Green	Solid Colors	1	1.35
+3004	4613961	3004	Brick 1 x 2	5	4	Red	Solid Colors	2	0.8
+3004	4211088	3004	Brick 1 x 2	85	72	Dark Bluish Gray	Solid Colors	3	0.8
+3004	4613964	3004	Brick 1 x 2	1	15	White	Solid Colors	4	0.8
+3004	4109995	3004	Brick 1 x 2	2	19	Tan	Solid Colors	45	0.8
+3004	300426	3004	Brick 1 x 2	11	0	Black	Solid Colors	5	0.8
+3004	4211388	3004	Brick 1 x 2	86	71	Light Bluish Gray	Solid Colors	78	0.8
+3005	300526	3005	Brick 1 x 1	11	0	Black	Solid Colors	2	0.44
+3005	4211098	3005	Brick 1 x 1	85	72	Dark Bluish Gray	Solid Colors	5	0.44
+3005	4211389	3005	Brick 1 x 1	86	71	Light Bluish Gray	Solid Colors	84	0.44
+3005	4113915	3005	Brick 1 x 1	2	19	Tan	Solid Colors	171	0.44
+3005	4211242	3005	Brick 1 x 1	88	70	Reddish Brown	Solid Colors	2	0.44
+3005	6220959	3005	Brick 1 x 1	12	47	Trans-Clear	Transparent Colors	36	0.44
+3009	4247151	3009	Brick 1 x 6	69	28	Dark Tan	Solid Colors	2	2.42
+3009	6000743	3009	Brick 1 x 6	68	484	Dark Orange	Solid Colors	46	2.42
+3009	4211100	3009	Brick 1 x 6	85	72	Dark Bluish Gray	Solid Colors	2	2.42
+3010	4245571	3010	Brick 1 x 4	80	288	Dark Green	Solid Colors	1	1.64
+3010	4211394	3010	Brick 1 x 4	86	71	Light Bluish Gray	Solid Colors	12	1.64
+3010	6223040	3010	Brick 1 x 4	68	484	Dark Orange	Solid Colors	4	1.64
+3010	4211103	3010	Brick 1 x 4	85	72	Dark Bluish Gray	Solid Colors	4	1.64
+3010	301001	3010	Brick 1 x 4	1	15	White	Solid Colors	4	1.64
+3010	4113916	3010	Brick 1 x 4	2	19	Tan	Solid Colors	16	1.64
+3010	301026	3010	Brick 1 x 4	11	0	Black	Solid Colors	1	1.64
+30136	4218749	30136	Brick, Modified 1 x 2 Log	2	19	Tan	Solid Colors	19	0.69
+30136	4520257	30136	Brick, Modified 1 x 2 Log	69	28	Dark Tan	Solid Colors	2	0.69
+3020	302028	3020	Plate 2 x 4	6	2	Green	Solid Colors	2	1.2
+3020	302021	3020	Plate 2 x 4	5	4	Red	Solid Colors	8	1.2
+3020	4586057	3020	Plate 2 x 4	80	288	Dark Green	Solid Colors	24	1.2
+3020	4537936	3020	Plate 2 x 4	34	27	Lime	Solid Colors	1	1.2
+3020	4211186	3020	Plate 2 x 4	88	70	Reddish Brown	Solid Colors	7	1.2
+3020	4267874	3020	Plate 2 x 4	69	28	Dark Tan	Solid Colors	16	1.2
+3020	4211395	3020	Plate 2 x 4	86	71	Light Bluish Gray	Solid Colors	24	1.2
+3020	4114309	3020	Plate 2 x 4	2	19	Tan	Solid Colors	4	1.2
+3021	302128	3021	Plate 2 x 3	6	2	Green	Solid Colors	2	0.93
+3021	4211043	3021	Plate 2 x 3	85	72	Dark Bluish Gray	Solid Colors	4	0.93
+3021	4650244	3021	Plate 2 x 3	80	288	Dark Green	Solid Colors	11	0.93
+3021	4640675	3021	Plate 2 x 3	120	308	Dark Brown	Solid Colors	6	0.93
+3021	4211189	3021	Plate 2 x 3	88	70	Reddish Brown	Solid Colors	5	0.93
+3021	4118790	3021	Plate 2 x 3	2	19	Tan	Solid Colors	1	0.93
+3021	6035540	3021	Plate 2 x 3	69	28	Dark Tan	Solid Colors	30	0.93
+3021	4211396	3021	Plate 2 x 3	86	71	Light Bluish Gray	Solid Colors	17	0.93
+3021	6224275	3021	Plate 2 x 3	68	484	Dark Orange	Solid Colors	1	0.93
+3022	6013800	3022	Plate 2 x 2	80	288	Dark Green	Solid Colors	2	0
+3022	4211094	3022	Plate 2 x 2	85	72	Dark Bluish Gray	Solid Colors	3	0.64
+3022	4211397	3022	Plate 2 x 2	86	71	Light Bluish Gray	Solid Colors	5	0.64
+3022	302226	3022	Plate 2 x 2	11	0	Black	Solid Colors	7	0.64
+3022	4114084	3022	Plate 2 x 2	2	19	Tan	Solid Colors	9	0.64
+3023	302328	3023	Plate 1 x 2	6	2	Green	Solid Colors	4	0.36
+3023	4528604	3023	Plate 1 x 2	69	28	Dark Tan	Solid Colors	37	0.36
+3023	302326	3023	Plate 1 x 2	11	0	Black	Solid Colors	2	0.36
+3023	4211398	3023	Plate 1 x 2	86	71	Light Bluish Gray	Solid Colors	34	0.36
+3023	6013102	3023	Plate 1 x 2	80	288	Dark Green	Solid Colors	11	0.36
+3023	4211150	3023	Plate 1 x 2	88	70	Reddish Brown	Solid Colors	5	0.36
+3023	4570877	3023	Plate 1 x 2	68	484	Dark Orange	Solid Colors	3	0.36
+3023	4113917	3023	Plate 1 x 2	2	19	Tan	Solid Colors	27	0.36
+3023	4211063	3023	Plate 1 x 2	85	72	Dark Bluish Gray	Solid Colors	9	0.36
+3024	6055169	3024	Plate 1 x 1	80	288	Dark Green	Solid Colors	6	0.2
+3024	302428	3024	Plate 1 x 1	6	2	Green	Solid Colors	1	0.2
+3024	4211399	3024	Plate 1 x 1	86	71	Light Bluish Gray	Solid Colors	11	0.2
+3024	4210719	3024	Plate 1 x 1	85	72	Dark Bluish Gray	Solid Colors	18	0.2
+3024	4549436	3024	Plate 1 x 1	69	28	Dark Tan	Solid Colors	23	0.2
+3024	4159553	3024	Plate 1 x 1	2	19	Tan	Solid Colors	30	0.2
+3024	4221744	3024	Plate 1 x 1	88	70	Reddish Brown	Solid Colors	1	0.2
+3028	4264818	3028	Plate 6 x 12	80	288	Dark Green	Solid Colors	1	9.47
+3030	6247196	3030	Plate 4 x 10	6	2	Green	Solid Colors	2	5.55
+3030	4295024	3030	Plate 4 x 10	80	288	Dark Green	Solid Colors	12	5.55
+3030	4225715	3030	Plate 4 x 10	88	70	Reddish Brown	Solid Colors	25	5.55
+3030		3030	Plate 4 x 10	5	4	Red	Solid Colors	7	5.55
+3031	4243824	3031	Plate 4 x 4	2	19	Tan	Solid Colors	3	2.22
+3031	4617799	3031	Plate 4 x 4	36	10	Bright Green	Solid Colors	1	2.22
+3031	4243821	3031	Plate 4 x 4	6	2	Green	Solid Colors	4	2.22
+3031		3031	Plate 4 x 4	69	28	Dark Tan	Solid Colors	2	2.22
+3031	4243797	3031	Plate 4 x 4	86	71	Light Bluish Gray	Solid Colors	5	2.22
+3032	4211404	3032	Plate 4 x 6	86	71	Light Bluish Gray	Solid Colors	8	3.3
+3032	6167894	3032	Plate 4 x 6	69	28	Dark Tan	Solid Colors	2	3.3
+3032	4252317	3032	Plate 4 x 6	80	288	Dark Green	Solid Colors	3	3.3
+3033	4549214	3033	Plate 6 x 10	80	288	Dark Green	Solid Colors	6	7.95
+3033	4211405	3033	Plate 6 x 10	86	71	Light Bluish Gray	Solid Colors	9	7.95
+3033	4211114	3033	Plate 6 x 10	85	72	Dark Bluish Gray	Solid Colors	2	7.95
+3033	4541680	3033	Plate 6 x 10	7	1	Blue	Solid Colors	2	7.95
+3033	6249097	3033	Plate 6 x 10	5	4	Red	Solid Colors	1	7.95
+3034	303421	3034	Plate 2 x 8	5	4	Red	Solid Colors	2	2.27
+3034	4113988	3034	Plate 2 x 8	2	19	Tan	Solid Colors	4	2.27
+3034	4211406	3034	Plate 2 x 8	86	71	Light Bluish Gray	Solid Colors	5	2.27
+3034	303401	3034	Plate 2 x 8	1	15	White	Solid Colors	1	2.27
+3034	4246957	3034	Plate 2 x 8	69	28	Dark Tan	Solid Colors	3	2.27
+3035	4505051	3035	Plate 4 x 8	80	288	Dark Green	Solid Colors	3	4.7
+553c	4161674	553c	Brick, Round 2 x 2 Dome Top - Hollow Stud with Bottom Axle Holder x Shape + Orientation	85	72	Dark Bluish Gray	Solid Colors	2	0.85
+30374	4210641	30374	Bar   4L (Lightsaber Blade / Wand)	85	72	Dark Bluish Gray	Solid Colors	2	0.3
+30374	6116606	30374	Bar   4L (Lightsaber Blade / Wand)	3	14	Yellow	Solid Colors	2	0.3
+3039	4211054	3039	Slope 45 2 x 2	85	72	Dark Bluish Gray	Solid Colors	11	1.15
+3040	4255624	3040	Slope 45 2 x 1	80	288	Dark Green	Solid Colors	1	0.69
+3040	4211614	3040	Slope 45 2 x 1	86	71	Light Bluish Gray	Solid Colors	275	0.69
+3040	4251973	3040	Slope 45 2 x 1	2	19	Tan	Solid Colors	11	0.69
+3040	4121969	3040	Slope 45 2 x 1	6	2	Green	Solid Colors	22	0.69
+3040	4211135	3040	Slope 45 2 x 1	85	72	Dark Bluish Gray	Solid Colors	11	0.69
+3040	4121966	3040	Slope 45 2 x 1	11	0	Black	Solid Colors	3	0.69
+3044b		3044b	Slope 45 2 x 1 Double - with Inside Bar	2	19	Tan	Solid Colors	11	0.52
+3044b		3044b	Slope 45 2 x 1 Double - with Inside Bar	85	72	Dark Bluish Gray	Solid Colors	49	0.52
+3045	4216250	3045	Slope 45 2 x 2 Double Convex	86	71	Light Bluish Gray	Solid Colors	5	0.9
+3045	4210646	3045	Slope 45 2 x 2 Double Convex	85	72	Dark Bluish Gray	Solid Colors	5	0.9
+30505	4203587	30505	Wedge 3 x 3 Cut Corner	2	19	Tan	Solid Colors	2	2.02
+3062b	306226	3062b	Brick, Round 1 x 1 Open Stud	11	0	Black	Solid Colors	10	0.28
+3062b	306228	3062b	Brick, Round 1 x 1 Open Stud	6	2	Green	Solid Colors	8	0.28
+3062b	306224	3062b	Brick, Round 1 x 1 Open Stud	3	14	Yellow	Solid Colors	16	0.28
+3062b	306221	3062b	Brick, Round 1 x 1 Open Stud	5	4	Red	Solid Colors	8	0.28
+3062b	6223655	3062b	Brick, Round 1 x 1 Open Stud	12	47	Trans-Clear	Transparent Colors	2	0.28
+3062b	4211183	3062b	Brick, Round 1 x 1 Open Stud	88	70	Reddish Brown	Solid Colors	9	0.28
+3062b	306201	3062b	Brick, Round 1 x 1 Open Stud	1	15	White	Solid Colors	16	0.28
+3062b	306223	3062b	Brick, Round 1 x 1 Open Stud	7	1	Blue	Solid Colors	8	0.28
+3062b	4211090	3062b	Brick, Round 1 x 1 Open Stud	85	72	Dark Bluish Gray	Solid Colors	4	0.28
+3062b	6074890	3062b	Brick, Round 1 x 1 Open Stud	68	484	Dark Orange	Solid Colors	4	0.28
+3062b	6220715	3062b	Brick, Round 1 x 1 Open Stud	4	25	Orange	Solid Colors	2	0.28
+3062b	4117070	3062b	Brick, Round 1 x 1 Open Stud	2	19	Tan	Solid Colors	160	0.28
+3063	4239203	3063	Brick, Round Corner 2 x 2 Macaroni with Stud Notch	2	19	Tan	Solid Colors	11	0.83
+3065	6244904	3065	Brick 1 x 2 without Bottom Tube	12	47	Trans-Clear	Transparent Colors	3	0.82
+3069a		3069a	Tile 1 x 2 without Groove	6	2	Green	Solid Colors	1	0.27
+3069a		3069a	Tile 1 x 2 without Groove	42	73	Medium Blue	Solid Colors	2	0.27
+3069a		3069a	Tile 1 x 2 without Groove	7	1	Blue	Solid Colors	4	0.27
+3069a		3069a	Tile 1 x 2 without Groove	2	19	Tan	Solid Colors	3	0.27
+3070b	4210848	3070b	Tile 1 x 1 with Groove	85	72	Dark Bluish Gray	Solid Colors	5	0.16
+3070b	4125253	3070b	Tile 1 x 1 with Groove	2	19	Tan	Solid Colors	6	0.16
+3245c	4211564	3245c	Brick 1 x 2 x 2 with Inside Stud Holder	86	71	Light Bluish Gray	Solid Colors	5	1.5
+3245c	4210978	3245c	Brick 1 x 2 x 2 with Inside Stud Holder	85	72	Dark Bluish Gray	Solid Colors	1	1.5
+3245c	4159279	3245c	Brick 1 x 2 x 2 with Inside Stud Holder	2	19	Tan	Solid Colors	1	1.5
+3460	4114324	3460	Plate 1 x 8	2	19	Tan	Solid Colors	5	1.36
+3460	4211425	3460	Plate 1 x 8	86	71	Light Bluish Gray	Solid Colors	1	1.36
+3460	6156492	3460	Plate 1 x 8	69	28	Dark Tan	Solid Colors	7	1.36
+3460	4210998	3460	Plate 1 x 8	85	72	Dark Bluish Gray	Solid Colors	1	1.36
+3622	362201	3622	Brick 1 x 3	1	15	White	Solid Colors	6	1.24
+3622	4162465	3622	Brick 1 x 3	2	19	Tan	Solid Colors	12	1.24
+3622	4211428	3622	Brick 1 x 3	86	71	Light Bluish Gray	Solid Colors	6	1.24
+3622	362226	3622	Brick 1 x 3	11	0	Black	Solid Colors	3	1.24
+3623	362326	3623	Plate 1 x 3	11	0	Black	Solid Colors	1	0.53
+3623	4211152	3623	Plate 1 x 3	88	70	Reddish Brown	Solid Colors	5	0.53
+3623	4211133	3623	Plate 1 x 3	85	72	Dark Bluish Gray	Solid Colors	10	0.53
+3623	6186007	3623	Plate 1 x 3	68	484	Dark Orange	Solid Colors	1	0.53
+3623	6013975	3623	Plate 1 x 3	80	288	Dark Green	Solid Colors	5	0.53
+3623	4211429	3623	Plate 1 x 3	86	71	Light Bluish Gray	Solid Colors	5	0.53
+3623	4121921	3623	Plate 1 x 3	2	19	Tan	Solid Colors	8	0.53
+3659	4550323	3659	Brick, Arch 1 x 4	2	19	Tan	Solid Colors	5	1.25
+3659	4596218	3659	Brick, Arch 1 x 4	69	28	Dark Tan	Solid Colors	1	1.25
+3660	4118866	3660	Slope, Inverted 45 2 x 2	2	19	Tan	Solid Colors	4	1.25
+3665	4211437	3665	Slope, Inverted 45 2 x 1	86	71	Light Bluish Gray	Solid Colors	29	0.66
+3665	366526	3665	Slope, Inverted 45 2 x 1	11	0	Black	Solid Colors	4	0.66
+3666	366628	3666	Plate 1 x 6	6	2	Green	Solid Colors	1	1.06
+3666	4221590	3666	Plate 1 x 6	88	70	Reddish Brown	Solid Colors	4	1.06
+3666	4211056	3666	Plate 1 x 6	85	72	Dark Bluish Gray	Solid Colors	1	1.06
+3666	4211438	3666	Plate 1 x 6	86	71	Light Bluish Gray	Solid Colors	1	1.06
+3666	4124067	3666	Plate 1 x 6	2	19	Tan	Solid Colors	4	1.06
+3666	4245566	3666	Plate 1 x 6	80	288	Dark Green	Solid Colors	1	1.06
+3673	4211807	3673	Technic, Pin without Friction Ridges Lengthwise	86	71	Light Bluish Gray	Solid Colors	1	0.16
+3673		3673	Technic, Pin without Friction Ridges Lengthwise	7	1	Blue	Solid Colors	2	0.16
+3678b	4234534	3678b	Slope 65 2 x 2 x 2 with Bottom Tube	85	72	Dark Bluish Gray	Solid Colors	3	2.09
+3688	4645099	3688	Slope 75 2 x 2 x 2 Quadruple Convex	85	72	Dark Bluish Gray	Solid Colors	4	1.32
+3700	4205107	3700	Technic, Brick 1 x 2 with Hole	2	19	Tan	Solid Colors	1	0.82
+3701	4234365	3701	Technic, Brick 1 x 4 with Holes	2	19	Tan	Solid Colors	8	1.46
+3707	370726	3707	Technic, Axle 8	11	0	Black	Solid Colors	2	1.18
+3710	4626904	3710	Plate 1 x 4	69	28	Dark Tan	Solid Colors	9	0.71
+3710	6074892	3710	Plate 1 x 4	68	484	Dark Orange	Solid Colors	2	0.71
+3710	4113233	3710	Plate 1 x 4	2	19	Tan	Solid Colors	14	0.71
+3710	4211001	3710	Plate 1 x 4	85	72	Dark Bluish Gray	Solid Colors	4	0.71
+3710	4211445	3710	Plate 1 x 4	86	71	Light Bluish Gray	Solid Colors	2	0.71
+3710	4211190	3710	Plate 1 x 4	88	70	Reddish Brown	Solid Colors	2	0.71
+3710	371028	3710	Plate 1 x 4	6	2	Green	Solid Colors	2	0.71
+3710	6020923	3710	Plate 1 x 4	80	288	Dark Green	Solid Colors	1	0.71
+3794b	4211451	3794b	Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)	86	71	Light Bluish Gray	Solid Colors	9	0.3
+3794b	4211119	3794b	Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)	85	72	Dark Bluish Gray	Solid Colors	6	0.3
+3794b	4155708	3794b	Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)	2	19	Tan	Solid Colors	6	0.3
+3795	4550329	3795	Plate 2 x 6	69	28	Dark Tan	Solid Colors	7	1.74
+3795	4211452	3795	Plate 2 x 6	86	71	Light Bluish Gray	Solid Colors	26	1.74
+3795	379528	3795	Plate 2 x 6	6	2	Green	Solid Colors	4	1.74
+3795	4211247	3795	Plate 2 x 6	88	70	Reddish Brown	Solid Colors	4	1.74
+3795	379521	3795	Plate 2 x 6	5	4	Red	Solid Colors	4	1.74
+3795	4113993	3795	Plate 2 x 6	2	19	Tan	Solid Colors	2	1.74
+3795	4245554	3795	Plate 2 x 6	80	288	Dark Green	Solid Colors	12	1.74
+3832	383223	3832	Plate 2 x 10	7	1	Blue	Solid Colors	1	2.91
+3832	4211462	3832	Plate 2 x 10	86	71	Light Bluish Gray	Solid Colors	2	2.91
+3832	383221	3832	Plate 2 x 10	5	4	Red	Solid Colors	1	2.91
+3832	383228	3832	Plate 2 x 10	6	2	Green	Solid Colors	3	2.91
+3941	614321	3941	Brick, Round 2 x 2 with Axle Hole	5	4	Red	Solid Colors	1	1.2
+3941	4125220	3941	Brick, Round 2 x 2 with Axle Hole	2	19	Tan	Solid Colors	53	1.2
+3941	4249139	3941	Brick, Round 2 x 2 with Axle Hole	85	72	Dark Bluish Gray	Solid Colors	2	1.2
+3941	4211166	3941	Brick, Round 2 x 2 with Axle Hole	88	70	Reddish Brown	Solid Colors	1	1.2
+3942c	6057616	3942c	Cone 2 x 2 x 2 - Completely Open Stud	86	71	Light Bluish Gray	Solid Colors	1	1.32
+3942c	6092666	3942c	Cone 2 x 2 x 2 - Completely Open Stud	85	72	Dark Bluish Gray	Solid Colors	17	1.32
+3943b	4296788	3943b	Cone 4 x 4 x 2 with Axle Hole	85	72	Dark Bluish Gray	Solid Colors	3	3.46
+3943b	6199554	3943b	Cone 4 x 4 x 2 with Axle Hole	86	71	Light Bluish Gray	Solid Colors	1	3.46
+3958	4217848	3958	Plate 6 x 6	88	70	Reddish Brown	Solid Colors	3	4.71
+4032b	4211159	4032b	Plate, Round 2 x 2 with Axle Hole - X Opening	88	70	Reddish Brown	Solid Colors	3	0.41
+4032b	4140562	4032b	Plate, Round 2 x 2 with Axle Hole - X Opening	2	19	Tan	Solid Colors	11	0.41
+4032b	4211042	4032b	Plate, Round 2 x 2 with Axle Hole - X Opening	85	72	Dark Bluish Gray	Solid Colors	6	0.41
+4032b		4032b	Plate, Round 2 x 2 with Axle Hole - X Opening	36	10	Bright Green	Solid Colors	16	0.41
+4032b	403228	4032b	Plate, Round 2 x 2 with Axle Hole - X Opening	6	2	Green	Solid Colors	27	0.41
+4032b	4211475	4032b	Plate, Round 2 x 2 with Axle Hole - X Opening	86	71	Light Bluish Gray	Solid Colors	5	0.41
+4070	4118793	4070	Brick, Modified 1 x 1 with Headlight	2	19	Tan	Solid Colors	74	0.36
+4070	4211044	4070	Brick, Modified 1 x 1 with Headlight	85	72	Dark Bluish Gray	Solid Colors	2	0.36
+41767	4160327	41767	Wedge 4 x 2 Right	2	19	Tan	Solid Colors	3	1.86
+41769	4210782	41769	Wedge, Plate 4 x 2 Right	85	72	Dark Bluish Gray	Solid Colors	4	0.83
+41769	4543259	41769	Wedge, Plate 4 x 2 Right	6	2	Green	Solid Colors	1	0.83
+41770	4210788	41770	Wedge, Plate 4 x 2 Left	85	72	Dark Bluish Gray	Solid Colors	4	0.83
+4266		4266	Wheel 20 x 30 Technic (4 studs D.)	2	19	Tan	Solid Colors	4	5.29
+4282	428221	4282	Plate 2 x 16	5	4	Red	Solid Colors	18	4.5
+4282	4583692	4282	Plate 2 x 16	80	288	Dark Green	Solid Colors	9	4.5
+4282		4282	Plate 2 x 16	7	1	Blue	Solid Colors	1	4.5
+4282	4211486	4282	Plate 2 x 16	86	71	Light Bluish Gray	Solid Colors	12	4.5
+4282		4282	Plate 2 x 16	88	70	Reddish Brown	Solid Colors	2	4.5
+4286	4211488	4286	Slope 33 3 x 1	86	71	Light Bluish Gray	Solid Colors	100	0.98
+4286	6167466	4286	Slope 33 3 x 1	34	27	Lime	Solid Colors	2	0.98
+4286	4107637	4286	Slope 33 3 x 1	6	2	Green	Solid Colors	3	0.98
+4286	428626	4286	Slope 33 3 x 1	11	0	Black	Solid Colors	2	0.98
+4287	428726	4287	Slope, Inverted 33 3 x 1	11	0	Black	Solid Colors	2	0.94
+43719	4561036	43719	Wedge, Plate 4 x 4	85	72	Dark Bluish Gray	Solid Colors	4	1.2
+4460b	4129996	4460b	Slope 75 2 x 1 x 3 - Hollow Stud	2	19	Tan	Solid Colors	1	1.68
+4460b	4221745	4460b	Slope 75 2 x 1 x 3 - Hollow Stud	85	72	Dark Bluish Gray	Solid Colors	2	1.68
+4460b	4211494	4460b	Slope 75 2 x 1 x 3 - Hollow Stud	86	71	Light Bluish Gray	Solid Colors	195	1.68
+4477	4223683	4477	Plate 1 x 10	88	70	Reddish Brown	Solid Colors	2	1.61
+4477		4477	Plate 1 x 10	80	288	Dark Green	Solid Colors	1	1.61
+4477	4143409	4477	Plate 1 x 10	2	19	Tan	Solid Colors	1	1.61
+4477	4257526	4477	Plate 1 x 10	85	72	Dark Bluish Gray	Solid Colors	1	1.61
+4477	447726	4477	Plate 1 x 10	11	0	Black	Solid Colors	1	1.61
+4490	4618651	4490	Brick, Arch 1 x 3	2	19	Tan	Solid Colors	24	0.87
+4589	4567331	4589	Cone 1 x 1 without Top Groove	14	33	Trans-Dark Blue	Transparent Colors	1	0.26
+4589	4529236	4589	Cone 1 x 1 without Top Groove	11	0	Black	Solid Colors	2	0.26
+4589	4529237	4589	Cone 1 x 1 without Top Groove	2	19	Tan	Solid Colors	28	0.26
+4589	4529242	4589	Cone 1 x 1 without Top Groove	88	70	Reddish Brown	Solid Colors	91	0.26
+4589	4529240	4589	Cone 1 x 1 without Top Groove	85	72	Dark Bluish Gray	Solid Colors	51	0.26
+4623	4239272	4623	Plate, Modified 1 x 2 with Arm Up (Horizontal Arm Length 6mm)	2	19	Tan	Solid Colors	2	0.5
+4740	474001	4740	Dish 2 x 2 Inverted (Radar)	1	15	White	Solid Colors	1	0.28
+4740	474026	4740	Dish 2 x 2 Inverted (Radar)	11	0	Black	Solid Colors	1	0.28
+4742		4742	Cone 4 x 4 x 2 Hollow No Studs	1	15	White	Solid Colors	1	3.77
+47905	4213568	47905	Brick, Modified 1 x 1 with Studs on 2 Sides	2	19	Tan	Solid Colors	1	0.45
+48092	6006805	48092	Brick, Round Corner 4 x 4 Macaroni Wide with 3 Studs	2	19	Tan	Solid Colors	12	2.0
+47543	4629798	47543	Cone Half 8 x 4 x 6	86	71	Light Bluish Gray	Solid Colors	2	9.84
+54200	4504378	54200	Slope 30 1 x 1 x 2/3	85	72	Dark Bluish Gray	Solid Colors	147	0.21
+54200	4504369	54200	Slope 30 1 x 1 x 2/3	1	15	White	Solid Colors	3	0.21
+54200	4516055	54200	Slope 30 1 x 1 x 2/3	2	19	Tan	Solid Colors	10	0.21
+54200	4546705	54200	Slope 30 1 x 1 x 2/3	6	2	Green	Solid Colors	11	0.21
+54200	4521921	54200	Slope 30 1 x 1 x 2/3	86	71	Light Bluish Gray	Solid Colors	1	0.21
+60474	4515351	60474	Plate, Round 4 x 4 with Hole	86	71	Light Bluish Gray	Solid Colors	1	1.6
+60474	4528323	60474	Plate, Round 4 x 4 with Hole	85	72	Dark Bluish Gray	Solid Colors	1	1.6
+60477	6013497	60477	Slope 18 4 x 1	86	71	Light Bluish Gray	Solid Colors	30	1.1
+60479	6133611	60479	Plate 1 x 12	85	72	Dark Bluish Gray	Solid Colors	1	1.95
+60479	4514846	60479	Plate 1 x 12	86	71	Light Bluish Gray	Solid Colors	3	1.95
+60479	4519825	60479	Plate 1 x 12	120	308	Dark Brown	Solid Colors	1	1.95
+60481	4515374	60481	Slope 65 2 x 1 x 2	86	71	Light Bluish Gray	Solid Colors	64	1.16
+61252	4579354	61252	Plate, Modified 1 x 1 with Clip Horizontal (thick open O clip)	85	72	Dark Bluish Gray	Solid Colors	4	0.27
+4073	4210633	4073	Plate, Round 1 x 1 Straight Side	85	72	Dark Bluish Gray	Solid Colors	15	0.12
+4073	4161734	4073	Plate, Round 1 x 1 Straight Side	2	19	Tan	Solid Colors	66	0.12
+4073	614126	4073	Plate, Round 1 x 1 Straight Side	11	0	Black	Solid Colors	7	0.12
+4073	4569058	4073	Plate, Round 1 x 1 Straight Side	6	2	Green	Solid Colors	87	0.12
+4073	4183133	4073	Plate, Round 1 x 1 Straight Side	34	27	Lime	Solid Colors	124	0.12
+4073	4211525	4073	Plate, Round 1 x 1 Straight Side	86	71	Light Bluish Gray	Solid Colors	3	0.12
+4073	4216581	4073	Plate, Round 1 x 1 Straight Side	88	70	Reddish Brown	Solid Colors	13	0.12
+6222		6222	Brick, Round 4 x 4 with 4 Side Pin Holes and Center Axle Hole	2	19	Tan	Solid Colors	9	3.57
+63864	4558169	63864	Tile 1 x 3	86	71	Light Bluish Gray	Solid Colors	6	0.39
+6536	4211775	6536	Technic, Axle and Pin Connector Perpendicular	86	71	Light Bluish Gray	Solid Colors	1	0.39
+6541	4179771	6541	Technic, Brick 1 x 1 with Hole	2	19	Tan	Solid Colors	1	0.38
+6564	4255463	6564	Wedge 3 x 2 Right	2	19	Tan	Solid Colors	10	1.85
+6565	4255464	6565	Wedge 3 x 2 Left	2	19	Tan	Solid Colors	11	1.85
+6636	4157277	6636	Tile 1 x 6	2	19	Tan	Solid Colors	2	0.83
+85861	6168642	85861	Plate, Round 1 x 1 with Open Stud	1	15	White	Solid Colors	2	0.1
+85984	4567887	85984	Slope 30 1 x 2 x 2/3	85	72	Dark Bluish Gray	Solid Colors	31	0.34
+85984	4624086	85984	Slope 30 1 x 2 x 2/3	2	19	Tan	Solid Colors	8	0.34
+87079	4560183	87079	Tile 2 x 4	86	71	Light Bluish Gray	Solid Colors	2	0.9
+87580	4565323	87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	11	0	Black	Solid Colors	1	0.5
+87580	6126075	87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	69	28	Dark Tan	Solid Colors	1	0.5
+87580	4565321	87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	6	2	Green	Solid Colors	2	0.5
+87580	4565387	87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	2	19	Tan	Solid Colors	2	0.5
+87580	6126082	87580	Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)	86	71	Light Bluish Gray	Solid Colors	2	0.5
+91405	4620130	91405	Plate 16 x 16	86	71	Light Bluish Gray	Solid Colors	3	35.0
+91405	4610305	91405	Plate 16 x 16	7	1	Blue	Solid Colors	13	35.0
+91405		91405	Plate 16 x 16	104	29	Bright Pink	Solid Colors	3	35
+92946	6069164	92946	Slope 45 2 x 1 with 2/3 Cutout	85	72	Dark Bluish Gray	Solid Colors	10	0.42
+92946	6069165	92946	Slope 45 2 x 1 with 2/3 Cutout	2	19	Tan	Solid Colors	7	0.42
+3022	4613975	3022	Plate 2 x 2	88	70	Reddish Brown	Solid Colors	7	0.64
+3022	4613974	3022	Plate 2 x 2	5	4	Red	Solid Colors	1	0.64
+3022	4613976	3022	Plate 2 x 2	1	15	White	Solid Colors	4	0.64
+98138	4655241	98138	Tile, Round 1 x 1	95	179	Flat Silver	Pearl Colors	6	0.11
+98138	6148244	98138	Tile, Round 1 x 1	108	35	Trans-Bright Green	Transparent Colors	23	0.11
+98138	6273627	98138	Tile, Round 1 x 1	14	33	Trans-Dark Blue	Transparent Colors	7	0.11
+98138	4646844	98138	Tile, Round 1 x 1	1	15	White	Solid Colors	4	0.11
+98138	6274742	98138	Tile, Round 1 x 1	20	34	Trans-Green	Transparent Colors	15	0.11
+									
+Total qty	Total Weight								
+4537	5315.149								
